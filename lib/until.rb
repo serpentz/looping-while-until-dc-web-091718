@@ -6,6 +6,5 @@ levitation_force++
 end
 
 puts "Wingardium Leviosa"
-    
-end
 
+end
